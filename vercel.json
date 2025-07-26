@@ -1,0 +1,15 @@
+{
+  "版本": 2,
+  "构建": [
+    {
+      "src": "app.py",
+      使用: " @vercel/python"
+    }
+  输入：]
+  "routes": [
+    {
+      "src": "/(.*ceipt)"
+      "dest": "app.py"
+    }
+  输入：   ]
+}
